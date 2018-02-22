@@ -28,9 +28,9 @@ optional arguments:
 To use the helloworld Python API:
 ```python
 import helloworld
-helloworld.helloworld(name="Naoko")
+helloworld.helloworld(name="Naoko!")
 ```
 
 ```
-hello Naoko
+hello Naoko!
 ```
